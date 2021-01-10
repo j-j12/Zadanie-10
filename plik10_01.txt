@@ -1,1 +1,2 @@
 gałąź master: plik10_01.txt
+gałąź branch01: plik10_01.txt
